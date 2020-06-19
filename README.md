@@ -9,6 +9,8 @@ You can then reprocess a specific day with your recorded Posmo Segments and they
 
 
 ## For your test reports  
+Use issues for this.
+
 
 ### 1. Always mention the city, country and operation system (iOS/Android)
 - a. Mention the city/town/municipality and country, so that we will better understand your local context.    
