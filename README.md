@@ -9,7 +9,7 @@ You can then reprocess a specific day with your recorded Posmo Segments and they
 
 
 ## For your test reports  
-Use issues for this.
+Use [issues](https://github.com/datamapio/posmo_one_testing/issues) to publish your test reports.
 
 
 ### 1. Always mention the city, country and operation system (iOS/Android)
