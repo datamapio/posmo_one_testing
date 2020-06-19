@@ -1,11 +1,12 @@
 # POSMO ONE Alpha Testing
 
 ## Help improve Posmo One with Posmo Segments
-Posmo Segments can be found in the App Store and Google Play Store.           
-           
-We offer way more transport modes in Posmo Segments, so if you want to improve Posmo One and/or add transport modes that aren't available yet by default (e.g. Subway), we advise to record specific segments with Posmo Segments. Be however very precise with the start and stop of this particular segment.
-
-You can then reprocess a specific day with your recorded Posmo Segments and they will be considered as ground truth and inserted into your day. We are currently working on this new feature for https://posmo.datamap.io and will let you know as soon as it is available. You can however already now record your Posmo Segments and save them. You'll find them also at https://posmo.datamap.io.
+Posmo Segments can be found in the App Store and Google Play Store.            
+            
+We offer way more transport modes in Posmo Segments, so if you want to improve Posmo One and/or add transport modes that aren't available yet by default (e.g. Subway), we advise to record specific segments with Posmo Segments. Be however very precise with the start and stop of this particular segment.             
+                 
+You can then reprocess a specific day with your recorded Posmo Segments and they will be considered as ground truth and inserted into your day. We are currently working on this new feature for https://posmo.datamap.io and will let you know as soon as it is available.            
+You can however already now record your Posmo Segments while using Posmo One. Once you save them, you'll can access them also at https://posmo.datamap.io.
 
 
 ## For your test reports  
@@ -42,7 +43,7 @@ Example report:
 "Problem A: I am missing a place from 14:30-15:20. Right now the walking segment extends till 15:20."       
 
 ### 4. Upload images to specify your problem
-You can either send screenshots of your phone or of the web version (https://posmo.datamap.io).
-Pictures normally help to better understand the problem.          
+You can either send screenshots of your phone or of the web version (https://posmo.datamap.io).           
+Pictures normally help to better understand the problem.            
 
           
