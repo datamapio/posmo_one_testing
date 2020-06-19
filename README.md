@@ -25,7 +25,7 @@ do_not_track = 1 or 0
 wifi_over_gps = 1 or 0           
 data_over_wifi_only = 1 or 0          
 
-![Posmo One Settings](https://github.com/datamapio/posmo_one_testing/blob/master/posmo_one_278_settings.jpg)
+![Posmo One Settings | 50%](https://github.com/datamapio/posmo_one_testing/blob/master/posmo_one_278_settings.jpg)
 
 **Example:**       
 geofence: 1        
