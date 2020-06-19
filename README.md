@@ -33,4 +33,16 @@ do_not_track: 0
 wifi_over_gps: 0           
 data_over_wifi_only: 1             
             
-### 3. If something is off, follow this order
+### 3. If something is off, follow this order of reasoning 
+A. Do we have all places (static) and all segments (moving)?         
+B. Do all segments and places start at the right time?        
+C. Are all places and segments classified correctly?      
+            
+Example report:            
+"Problem A: I am missing a place from 14:30-15:20. Right now the walking segment extends till 15:20."       
+
+### 4. Upload images to specify your problem
+You can either send screenshots of your phone or of the web version (https://posmo.datamap.io).
+Pictures normally help to better understand the problem.          
+
+          
