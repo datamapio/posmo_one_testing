@@ -16,6 +16,7 @@ Use [issues](https://github.com/datamapio/posmo_one_testing/issues) to publish y
 ### 1. Always mention the city, country and operation system (iOS/Android)
 - a. Mention the city/town/municipality and country, so that we will better understand your local context.    
 - b. Mention if you have an iPhone or an Android phone
+- c. Mention email, day when problem occured so we can reproduce same issue in testing env. 
 
 ### 2. Always mention your settings
 
@@ -40,10 +41,8 @@ B. Do all segments and places start at the right time?
 C. Are all places and segments classified correctly?      
             
 Example report:            
-"Problem A: I am missing a place from 14:30-15:20. Right now the walking segment extends till 15:20."       
+"Problem A: I am missing a place on day 2020-06-20 from 14:30-15:20. Right now the walking segment extends till 15:20."       
 
 ### 4. Upload images to specify your problem
 You can either send screenshots of your phone or of the web version (https://posmo.datamap.io).           
-Pictures normally help to better understand the problem.            
-
-          
+Pictures normally help to better understand the problem.
