@@ -72,3 +72,7 @@ Example report:
 ### 4. Upload images to specify your problem
 You can either send screenshots of your phone or of the web version (https://posmo.datamap.io).           
 Pictures normally help to better understand the problem.
+
+## New Backend Versions
+We will publish new backend versions here. There might be on some rare occasions short interruptions of the service. If that is the case, we will let you know.
+
