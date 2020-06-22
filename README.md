@@ -12,6 +12,19 @@ You can however already now record your Posmo Segments while using Posmo One. On
 ## For your test reports  
 Use [issues](https://github.com/datamapio/posmo_one_testing/issues) to publish your test reports.
 
+### 0. Tell us if you are fine, when we respond publicly to your questions
+
+Being in Alpha, we looking at your data will tell us what is wrongly interpreted. The more diversity of cases we see, the better our ML will become. For now it helps to scrutinize the day and segments you point out. And do this visually most of the time. 
+
+#### Assumption 1: 
+If you help us with that, you agree that we look at your data. 
+
+#### Assumption 2: 
+- Public = shown in Issues, we respond publicly and - if that helps - with the aid of images. As long as you do not write "SEMIPRIVATE" on top of your issue, we assume that we can respond to your problem with the help of images.
+- Semiprivate = we read your question on Issues and respond only briefly in text and if images are needed, we send you a mail
+- Private = you send us a mail (roger at datamap.io). 
+
+
 
 ### 1. Always mention the city, country and operation system (iOS/Android)
 - a. Mention the city/town/municipality and country, so that we will better understand your local context.    
