@@ -1,9 +1,9 @@
 # POSMO ONE Alpha Testing
 
 ## Help improve Posmo One with Posmo Segments
-[Posmo Segments](https://medium.com/@datamapio/posmo-segments-introduction-7af3183cfe6b) can be found in the [App Store](https://itunes.apple.com/us/app/posmo-segments/id1450602777) and [Google Play Store](https://play.google.com/store/apps/details?id=io.datamap.posmo_segments).            
+[Posmo Segments](https://medium.com/@datamapio/posmo-segments-introduction-7af3183cfe6b) can be found in the [App Store](https://itunes.apple.com/us/app/posmo-segments/id1450602777) and the [Google Play Store](https://play.google.com/store/apps/details?id=io.datamap.posmo_segments).            
             
-We offer way more transport modes in Posmo Segments, so if you want to improve Posmo One and/or add transport modes that aren't available yet by default (e.g. Subway), we advise to record specific segments with Posmo Segments. Be however very precise with the start and stop of this particular segment.             
+We offer way more transport modes in Posmo Segments, so if you want to improve Posmo One and/or add transport modes that aren't available yet by default (e.g. Subway), we advise to record specific segments with Posmo Segments. Be however very precise with the **start** and **stop** of this particular segment.             
                  
 You can then reprocess a specific day with your recorded Posmo Segments and they will be considered as ground truth and inserted into your day. We are currently working on this new feature for https://posmo.datamap.io and will let you know as soon as it is available.            
 You can however already now record your Posmo Segments while using Posmo One. Once you save them, you'll can access them also at https://posmo.datamap.io.
