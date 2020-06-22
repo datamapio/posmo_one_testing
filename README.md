@@ -8,6 +8,17 @@ We offer way more transport modes in Posmo Segments, so if you want to improve P
 You can then reprocess a specific day with your recorded Posmo Segments and they will be considered as ground truth and inserted into your day. We are currently working on this new feature for https://posmo.datamap.io and will let you know as soon as it is available.            
 You can however already now record your Posmo Segments while using Posmo One. Once you save them, you'll can access them also at https://posmo.datamap.io.
 
+### Posmo Segments helps to benchmark starts/stops, duration and kilometers
+Using Posmo One together with Posmo Segments helps also to be precise/to benchmark, as Posmo Segments always displays start, end times as well as duration and total kilometers.
+You don't need to do this for all segments, just for the ones you like and for the ones where other transport mode than:
+- walking
+- running
+- bike
+- tram
+- bus
+- train
+- car 
+are used.
 
 ## For your test reports  
 Use [issues](https://github.com/datamapio/posmo_one_testing/issues) to publish your test reports.
