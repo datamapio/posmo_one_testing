@@ -10,7 +10,8 @@ You can however already now record your Posmo Segments while using Posmo One. On
 
 ### Posmo Segments helps to benchmark starts/stops, duration and kilometers
 Using Posmo One together with Posmo Segments helps also to be precise/to benchmark, as Posmo Segments always displays start, end times as well as duration and total kilometers.
-You don't need to do this for all segments, just for the ones you like and for the ones where other transport mode than:
+You don't need to do this for all segments, just for the ones you like and for the ones where other transport modes than:     
+      
 - walking
 - running
 - bike
