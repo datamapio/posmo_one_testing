@@ -73,6 +73,6 @@ Example report:
 You can either send screenshots of your phone or of the web version (https://posmo.datamap.io).           
 Pictures normally help to better understand the problem.
 
-## New Backend Versions
-We will publish new backend versions here. There might be on some rare occasions short interruptions of the service. If that is the case, we will let you know.
+# New Backend Versions
+We will publish new backend versions [here](https://github.com/datamapio/posmo_one_testing/blob/master/service.md). There might be on some rare occasions short interruptions of the service. If that is the case, we will let you know.
 
