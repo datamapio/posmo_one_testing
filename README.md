@@ -21,15 +21,14 @@ If you help us with that, you agree that we look at your data.
 
 #### Assumption 2: 
 - Public = shown in Issues, we respond publicly and - if that helps - with the aid of images. As long as you do not write "SEMIPRIVATE" on top of your issue, we assume that we can respond to your problem with the help of images.
-- Semiprivate = we read your question on Issues and respond only briefly in text and if images are needed, we send you a mail
-- Private = you send us a mail (roger at datamap.io). 
+- SEMIPRIVATE = we read your question on Issues and respond only briefly in text and if images are needed, we send you a mail
+- Private = send us a mail (send to roger at datamap.io). 
 
-
-
-### 1. Always mention the city, country and operation system (iOS/Android)
+### 1. Always mention the city, country and operation system (iOS/Android), username and day
 - a. Mention the city/town/municipality and country, so that we will better understand your local context.    
 - b. Mention if you have an iPhone or an Android phone
-- c. Mention email, day when problem occured so we can reproduce same issue in testing env. 
+- c. Mention your username/email
+- d. Mention the day when the problem occured. This helps us to reproduce the same issue in our testing environment. 
 
 ### 2. Always mention your settings
 
