@@ -37,16 +37,17 @@ If you help us with that, you agree that we look at your data.
 - SEMIPRIVATE = we read your question on Issues and respond only briefly in text and if images are needed, we send you a mail
 - Private = send us a mail (send to roger at datamap.io). 
 
-### 1. Always mention the city, country and operation system (iOS/Android), username and day
+### 1. Always mention the city, country and operation system (iOS/Android)
 - a. Mention the city/town/municipality and country, so that we will better understand your local context.    
 - b. Mention if you have an iPhone or an Android phone
-- c. Mention your username/email
-- d. Mention the day when the problem occured. This helps us to reproduce the same issue in our testing environment. 
 
-### 2. Always mention your settings
+### 2. Always mention your username, day and settings 
 
+day = e.g. 14. Juli 2020 or July 4, 2020                    
+username = e.g. roger at datamap.io  (if SEMIPRIVATE, you can send us a mail too)                  
+                     
 1 = on / 0 = off
-
+                     
 geofence = 1 or 0                    
 wifi_over_gps = 1 or 0           
 data_over_wifi_only = 1 or 0  
