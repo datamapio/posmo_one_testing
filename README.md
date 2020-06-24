@@ -62,7 +62,7 @@ wifi_over_gps: 0
 data_over_wifi_only: 1             
             
 ### 3. If something is off, follow this order of reasoning 
-A. Do we have all places (static) and all segments (moving)? Do we have too many segments?        
+A. Do we have all places (static) and all segments (moving)? Do we have too many or not enough segments?        
 B. Do all segments and places start at the right time?        
 C. Are all places and segments classified correctly?      
             
