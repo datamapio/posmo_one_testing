@@ -1,7 +1,7 @@
 # POSMO ONE Alpha Testing
 
 ## Help improve Posmo One with Posmo Segments
-[Posmo Segments](https://medium.com/@datamapio/posmo-segments-introduction-7af3183cfe6b) can be found in the [App Store](https://itunes.apple.com/us/app/posmo-segments/id1450602777) and the [Google Play Store](https://play.google.com/store/apps/details?id=io.datamap.posmo_segments).            
+[Posmo Segments](https://medium.com/@datamapio/posmo-segments-introduction-7af3183cfe6b) can be found on the [App Store](https://itunes.apple.com/us/app/posmo-segments/id1450602777) and on the [Google Play Store](https://play.google.com/store/apps/details?id=io.datamap.posmo_segments).            
             
 We offer way more transport modes in Posmo Segments, so if you want to improve Posmo One and/or add transport modes that aren't available yet by default (e.g. Subway), we advise to record specific segments with Posmo Segments. Be however very precise with the **start** and **stop** of this particular segment.             
                  
