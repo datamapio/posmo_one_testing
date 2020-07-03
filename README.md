@@ -48,7 +48,7 @@ username = e.g. roger at datamap.io  (if SEMIPRIVATE, you can send us a mail too
                      
 1 = on / 0 = off
                      
-geofence = 1 or 0                    
+wifi_fence = 1 or 0                    
 wifi_over_gps = 1 or 0           
 data_over_wifi_only = 1 or 0  
 do_not_track = 1 or 0          
@@ -56,7 +56,7 @@ do_not_track = 1 or 0
 <img src="https://github.com/datamapio/posmo_one_testing/blob/master/posmo_one_278_settings.jpg" width="300" />
 
 **Example:**       
-geofence: 1        
+wifi_fence: 1        
 do_not_track: 0           
 wifi_over_gps: 0           
 data_over_wifi_only: 1             
