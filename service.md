@@ -2,7 +2,7 @@
 None scheduled
 
 ## Scheduled Backend Updates
-None scheduled
+- Backend Version 398: Scheduled for July 30, 2020, in the evening
 
 ## Past Updates
 - Backend Version 397: Deployed July 25, 2020  23:21:42
